@@ -1,2 +1,2 @@
-# DATA-MINING1
+# Data-Mining1
 DecisionTree classigfier
